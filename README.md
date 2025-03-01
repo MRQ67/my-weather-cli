@@ -29,7 +29,7 @@ A sleek, colorful command-line tool to fetch and display current weather data fo
     $env:WEATHER_API_KEY = "your-api-key-here"
     ```
 
-    -Mac OS/Linux:
+    - Mac OS/Linux:
     ```bash
     export WEATHER_API_KEY="your-api-key-here"
     ```
